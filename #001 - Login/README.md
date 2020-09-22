@@ -1,16 +1,12 @@
-# dailyui_001
+<h3 align="center">
+    <img src="https://github.com/devmrcs/challenges-ui-flutter/blob/master/%23001%20-%20Login/assets/001-Login.gif?raw=true" title="#logo" width="500px" src=".github/logo.png">
+    <br><br>
+    <b>#001 LOGIN</b>  
+    <br>
+</h3>
 
-A new Flutter project.
+--- 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h4 align="center">
+    Feito com 💙 por <a href="https://github.com/devmrcs" target="_blank">Marcos Souza</a>
+</h4>

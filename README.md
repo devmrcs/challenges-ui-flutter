@@ -1,4 +1,7 @@
-# Flutter UI Challenges 🎨
+<h1 align="center">
+    <b>Flutter UI Challenges 🎨</b>  
+    <br>
+</h1>
 
 <table>
   <tr>
@@ -6,9 +9,15 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/devmrcs/challenges-ui-flutter/tree/master/%23001%20-%20Login/assets/001-Login.gif?raw=true"/>
+      <a href="https://github.com/devmrcs/challenges-ui-flutter/tree/master/%23001%20-%20Login" target="_blank">
+      <img src="https://github.com/devmrcs/challenges-ui-flutter/blob/master/%23001%20-%20Login/assets/001-Login.gif?raw=true" style="max-height: 300px;"/>
+      </a>
     </td>
   </tr>
-
 </table>
 
+--- 
+
+<h4 align="center">
+    Feito com 💙 por <a href="https://github.com/devmrcs" target="_blank">Marcos Souza</a>
+</h4>
